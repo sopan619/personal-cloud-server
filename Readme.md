@@ -109,7 +109,7 @@ Paste the IP in your browser tab, and it should open the Nextcloud dashboard, lo
 ![nextcloud home](<src/nextcloud home.jpeg>)
 
 You can go to files and access and control all files and folders, but first we will check the disk space of our storage system. 
-<img src="admin sett.jpeg" alt="zt member auth" style="width:150px;" align="right"/>
+<img src="src/admin sett.jpeg" alt="zt member auth" style="width:150px;" align="right"/>
 
 Click on the profile icon in the top and click on Administration settings.
 
